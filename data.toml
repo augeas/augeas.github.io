@@ -14,8 +14,9 @@ description = "Sometimes I make and explain noises as hacker camps"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://youtu.be/8LaoaS3PIfM?si=9kFx4Mk8zn5DpA71"
-description = "The time I headline SHA2017 by mistake."
+embed_url = "https://www.youtube.com/embed/8LaoaS3PIfM"
+[[sections.items]]
+embed_url = "https://www.youtube.com/embed/HPNavwYEwDo"
 [[sections.items]]
 title = "Nightcrawler"
 description = "A mesmerizing thriller delving into the dark world of crime journalism"
