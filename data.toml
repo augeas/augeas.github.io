@@ -15,6 +15,7 @@ direction = "column"
 item_style = "outline"
 [[sections.items]]
 embed_url = "https://www.youtube.com/embed/8LaoaS3PIfM"
+description = "The time I headlined SHA2017 by mistake"
 [[sections.items]]
 embed_url = "https://www.youtube.com/embed/HPNavwYEwDo"
 [[sections.items]]
