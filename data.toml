@@ -30,6 +30,10 @@ item_style = "outline"
 embed_url = "https://www.youtube.com/embed/8LaoaS3PIfM"
 [[sections.items]]
 embed_url = "https://www.youtube.com/embed/HPNavwYEwDo"
+[[sections.items]]
+embed_url = "https://www.youtube.com/embed/Z5ZvWunP46s"
+[[sections.items]]
+embed_url = "https://www.youtube.com/embed/b03P4eaeUzE"
 
 [[sections]]
 title = "Other Links"
@@ -45,6 +49,6 @@ icon = "https://cdn.simpleicons.org/mastodon"
 title = "Mastodon"
 url = "https://eleusis.social/@augeas"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/soundcloud"
+icon = "https://cdn.simpleicons.org//ffffff"
 title = "Soundcloud"
 url = "https://soundcloud.com/giles-richard-greenway"
