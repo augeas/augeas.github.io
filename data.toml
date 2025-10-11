@@ -1,20 +1,21 @@
 name = "Giles R. Greenway"
-description = "Data-Larcenist and Carpet-Bagger. Diffident Perpetrator of Generative Noises and Images"
+description = "Data-Larcenist and Carpet-Bagger. Diffident Perpetrator of Generative Noises and Images."
 keywords = "python, scraping, sound-sculpture, generative noise"
 image = "jake.webp"
 theme = "dark"
-primary_color = "#d81b60"
+primary_color = "#0000ff"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Hacker Camp Noises"
+description = "Sometimes I make and explain noises as hacker camps"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+embed_url = "https://app.media.ccc.de/v/SHA2017-220-in_discrete_music"
+description = "The time I headline SHA2017 by mistake."
 [[sections.items]]
 title = "Nightcrawler"
 description = "A mesmerizing thriller delving into the dark world of crime journalism"
