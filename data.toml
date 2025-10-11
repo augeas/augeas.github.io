@@ -1,36 +1,31 @@
 name = "Giles R. Greenway"
 description = "Data-Larcenist and Carpet-Bagger. Diffident Perpetrator of Generative Noises and Images."
 keywords = "python, scraping, sound-sculpture, generative noise"
-image = "jake.webp"
+image = "grg.webp"
 theme = "dark"
-primary_color = "#0000ff"
+primary_color = "#00ff00"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
+title = "Silly Toys"
+description = "Noisy and/or supposedly aesthetic things I've made."
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Chaoscillator"
+description = "Chaotic attractor sounds with the web audio API, fourth-order Runge-Kutta done in JS, and jQuery."
+url = "https://augeas.github.io/Chaoscillator/"
+[[sections]]
 title = "Hacker Camp Noises"
-description = "Sometimes I make and explain noises as hacker camps"
+description = "Sometimes I make and explain noises at hacker camps."
 direction = "column"
 item_style = "outline"
 [[sections.items]]
 embed_url = "https://www.youtube.com/embed/8LaoaS3PIfM"
-description = "The time I headlined SHA2017 by mistake"
 [[sections.items]]
 embed_url = "https://www.youtube.com/embed/HPNavwYEwDo"
-[[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
-[[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
 
 [[sections]]
 title = "Links"
