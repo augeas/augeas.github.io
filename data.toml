@@ -18,7 +18,7 @@ title = "Chaoscillator"
 description = "Chaotic attractor sounds with the web audio API, the fourth-order Runge-Kutta methoid in JS, and jQuery."
 url = "https://augeas.github.io/Chaoscillator/"
 [[sections.items]]
-title = "lyapunov Fractals"
+title = "Lyapunov Fractals"
 description = "Looping, morphing lyapunov fractals, optionally in your browser via WASM, done in Marimo with numpy."
 url = "https://augeas.github.io/lyapunov/"
 [[sections]]
@@ -32,24 +32,19 @@ embed_url = "https://www.youtube.com/embed/8LaoaS3PIfM"
 embed_url = "https://www.youtube.com/embed/HPNavwYEwDo"
 
 [[sections]]
-title = "Links"
-description = "Look for me on these websites"
+title = "Other Links"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
+icon = "https://cdn.simpleicons.org/instagram/"
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+url = "https://www.instagram.com/gilesgreenway/"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+icon = "https://cdn.simpleicons.org/mastodon"
+title = "Mastodon"
+url = "https://eleusis.social/@augeas"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+icon = "https://cdn.simpleicons.org/soundcloud"
+title = "Soundcloud"
+url = "https://soundcloud.com/giles-richard-greenway"
