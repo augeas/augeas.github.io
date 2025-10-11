@@ -37,7 +37,7 @@ direction = "row"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/"
+icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
 url = "https://www.instagram.com/gilesgreenway/"
 [[sections.items]]
