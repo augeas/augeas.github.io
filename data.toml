@@ -3,7 +3,7 @@ description = "Data-Larcenist and Carpet-Bagger. Diffident Perpetrator of Genera
 keywords = "python, scraping, sound-sculpture, generative noise"
 image = "grg.webp"
 theme = "dark"
-primary_color = "#00ff00"
+primary_color = "#00bb00"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
 base_url = "https://thevahidal.github.io/jake"
@@ -15,8 +15,12 @@ direction = "column"
 item_style = "outline"
 [[sections.items]]
 title = "Chaoscillator"
-description = "Chaotic attractor sounds with the web audio API, fourth-order Runge-Kutta done in JS, and jQuery."
+description = "Chaotic attractor sounds with the web audio API, the fourth-order Runge-Kutta methoid in JS, and jQuery."
 url = "https://augeas.github.io/Chaoscillator/"
+[[sections.items]]
+title = "lyapunov Fractals"
+description = "Looping, morphing lyapunov fractals, optionally in your browser via WASM, done in Marimo with numpy."
+url = "https://augeas.github.io/lyapunov/"
 [[sections]]
 title = "Hacker Camp Noises"
 description = "Sometimes I make and explain noises at hacker camps."
