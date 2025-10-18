@@ -14,6 +14,10 @@ description = "Noisy and/or supposedly aesthetic things I've made."
 direction = "column"
 item_style = "outline"
 [[sections.items]]
+title = "1dca"
+description = "Fun with one-dimensional cellular automata in Numpy and Marimo."
+url = "https://augeas.github.io/1dca"
+[[sections.items]]
 title = "Chaoscillator"
 description = "Chaotic attractor sounds with the web audio API, the fourth-order Runge-Kutta methoid in JS, and jQuery."
 url = "https://augeas.github.io/Chaoscillator/"
@@ -34,7 +38,15 @@ embed_url = "https://www.youtube.com/embed/HPNavwYEwDo"
 embed_url = "https://www.youtube.com/embed/Z5ZvWunP46s"
 [[sections.items]]
 embed_url = "https://www.youtube.com/embed/b03P4eaeUzE"
-
+[[sections]]
+title = "Grand Theft Data"
+description = "Web scraping for fun and profit, or occasional retribution."
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Scrapers at apify.com"
+description = "In which I pedal my music streaming analytics wares."
+url = "https://apify.com/augeas"
 [[sections]]
 title = "Other Links"
 direction = "row"
